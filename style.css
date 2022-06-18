@@ -1,0 +1,26 @@
+.bg-sky {
+    background: rgb(98, 100, 249);
+}
+
+.text-brand {
+    color: rgb(123, 176, 255);
+}
+.text-brand:hover {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
+.nav-link:hover {
+    color: rgb(123, 176,255);
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #fff;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 40px;
+    padding-right: 40px;
+}
